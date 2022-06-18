@@ -1,0 +1,1 @@
+# Penempatan-Guru-ke-Sekolah-dengan-Algotritma-genetika
